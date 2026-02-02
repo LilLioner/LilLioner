@@ -48,4 +48,4 @@ SQL (consultas, joins, agregações)
     ↓
 Python (limpeza, automação, análise)
     ↓
-Conhecime
+Conhecimento

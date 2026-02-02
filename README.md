@@ -1,5 +1,7 @@
 ## Olá! Eu sou o Leonardo!
+## 📈 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LilLioner&show_icons=true&theme=dracula)
 <!--
 **LilLioner/LilLioner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

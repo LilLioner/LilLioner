@@ -1,18 +1,52 @@
-## Olá! Eu sou o Leonardo!
-## 📈 GitHub Stats
+<!-- Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3og0IPxMM0erATueVW/giphy.gif" width="100%" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LilLioner&show_icons=true&theme=dracula)
-<!--
-**LilLioner/LilLioner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">🕳️ Olá, eu sou [Seu Nome]</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <i>
+    Explorando dados como quem atravessa um buraco negro:<br>
+    quanto mais fundo, mais sentido faz.
+  </i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌌 Sobre mim
+
+🎓 Estudante de **Ciência da Computação (2º semestre)**  
+📊 Aspirante a **Engenheiro de Dados**  
+🧠 Estudando por conta própria e construindo base sólida em dados  
+
+Atualmente estou focado em entender **como dados são armazenados, manipulados e transformados**, buscando não apenas “fazer funcionar”, mas **entender o porquê das coisas**.
+
+- 🐍 Estudando **Python**
+- 🗄️ Estudando **SQL**
+- 🚀 Objetivo: primeira oportunidade como **Engenheiro de Dados / Estágio em Dados**
+- 🕳️ Tema favorito: **espaço, buracos negros e sistemas complexos**
+
+---
+
+## 🛠️ Tecnologias que estou explorando
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 🌀 Jornada em Engenharia de Dados
+
+```text
+Dados brutos
+    ↓
+SQL (consultas, joins, agregações)
+    ↓
+Python (limpeza, automação, análise)
+    ↓
+Conhecime

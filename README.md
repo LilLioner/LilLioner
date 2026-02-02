@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/3og0IPxMM0erATueVW/giphy.gif" width="100%" />
 </p>
 
-<h1 align="center">🕳️ Olá, eu sou [Seu Nome]</h1>
+<h1 align="center">🕳️ Olá, eu sou Leonardo Rocha</h1>
 
 <p align="center">
   <i>
@@ -25,7 +25,6 @@ Atualmente estou focado em entender **como dados são armazenados, manipulados e
 - 🐍 Estudando **Python**
 - 🗄️ Estudando **SQL**
 - 🚀 Objetivo: primeira oportunidade como **Engenheiro de Dados / Estágio em Dados**
-- 🕳️ Tema favorito: **espaço, buracos negros e sistemas complexos**
 
 ---
 

@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Leo;Computer+Science+Student!;Brazilian+Dev;Exploring+Pandas+and+Python+C:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Leo;Computer+Science+Student!;Python+Developer;Future+Data+Engineer:Building+with+Data;Aways+Learning!+:D)](https://git.io/typing-svg)

@@ -3,6 +3,11 @@
 <h2>Tech Stack</h2>
 <div>
 <img alt="Python Icon" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-<img alt="SQL Icon" src="https://img.shields.io/badge/SQL-003B57?labelColor=black&logo=sqlite&logoColor=white&style=for-the-badge">
 <img alt="MySQL Icon" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 <img alt="Git Icon" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+</div>
+
+<h2>Currently Learning</h2>
+<img alt="NumPy Icon" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+<img alt="Pandas Icon" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+<img alt="C Icon" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">

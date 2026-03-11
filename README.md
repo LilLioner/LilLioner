@@ -1,5 +1,5 @@
 <div class="Banner" align="center">
-            <img src="Banner.gif" width="600" height="320" />
+            <img src="Banner.gif" width="1000" height="400" />
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=e3e3e6&size=30&width=1000&center=true&lines=I'm+Leo;Computer+Science+Student!;Python+Developer;Future+Data+Engineer;Building+with+Data;Always+Learning!+:D)](https://git.io/typing-svg)

@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Leo;Computer+Science+Student!;Python+Developer;Future+Data+Engineer;Building+with+Data;Always+Learning!+:D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=210eb0&lines=I'm+Leo;Computer+Science+Student!;Python+Developer;Future+Data+Engineer;Building+with+Data;Always+Learning!+:D)](https://git.io/typing-svg)
